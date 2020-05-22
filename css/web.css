@@ -171,7 +171,7 @@ header {
   width: 100%;
   height: 90px;
   overflow: hidden;
-  background: #fff url(/image/head-bg.jpg) center top repeat-x;
+  background: #fff url(./image/head-bg.jpg) center top repeat-x;
 }
 header logo {
   float: left;
@@ -265,7 +265,7 @@ header nav > ul > li.active > a:active {
   height: 130px;
   overflow: hidden;
   margin: 70px auto 0 auto;
-  background: url(/image/banner.jpg) center top no-repeat;
+  background: url(./image/banner.jpg) center top no-repeat;
   text-align: center;
 }
 .part-banner a.button {
@@ -277,14 +277,14 @@ header nav > ul > li.active > a:active {
   height: 137px;
   overflow: hidden;
   text-indent: -9999px;
-  background: url(/image/btn-01.png) center top no-repeat;
+  background: url(./image/btn-01.png) center top no-repeat;
 }
 .part-1 {
   display: block;
   width: 100%;
   height: 790px;
   overflow: hidden;
-  background: url(/image/qudao.jpg) center top no-repeat;
+  background: url(./image/qudao.jpg) center top no-repeat;
 }
 .part-2 {
   width: 100%;
@@ -298,7 +298,7 @@ header nav > ul > li.active > a:active {
   width: 100%;
   height: 868px;
   overflow: hidden;
-  background: url(/image/jihua.jpg) center top no-repeat;
+  background: url(./image/jihua.jpg) center top no-repeat;
 }
 
 .part-4 {
@@ -308,7 +308,7 @@ header nav > ul > li.active > a:active {
   width: 100%;
   height: 481px;
   margin: 0 auto;
-  background: url(/image/baozhang.jpg) center top no-repeat;
+  background: url(./image/baozhang.jpg) center top no-repeat;
 }
 
 .part-5 {
@@ -360,7 +360,7 @@ header nav > ul > li.active > a:active {
   overflow: hidden;
   margin: 10px auto;
   background-color: #ff5963;
-  background-image: url(/image/ico-01.png);
+  background-image: url(./image/ico-01.png);
   background-repeat: no-repeat;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -402,7 +402,7 @@ header nav > ul > li.active > a:active {
   height: 650px;
   overflow: hidden;
   margin: 0 auto;
-  background: url(/image/banner-process.jpg) center top no-repeat;
+  background: url(./image/banner-process.jpg) center top no-repeat;
 }
 .part-process > .web-main {
   padding-top: 100px;
@@ -425,7 +425,7 @@ header nav > ul > li.active > a:active {
   height: 384px;
   overflow: hidden;
   margin: 10px auto 0 auto;
-  background: url(/image/p-01.png) 72px 48px no-repeat;
+  background: url(./image/p-01.png) 72px 48px no-repeat;
 }
 .part-process .content > li {
   position: absolute;
@@ -524,7 +524,7 @@ header nav > ul > li.active > a:active {
   height: 66px;
   overflow: hidden;
   margin: 26px auto 10px auto;
-  background: url(/image/ico-02.png) no-repeat;
+  background: url(./image/ico-02.png) no-repeat;
 }
 .part-effect .content > li:nth-of-type(1) > .ico {
   background-position: 0 0;
@@ -566,7 +566,7 @@ header nav > ul > li.active > a:active {
   width: 100%;
   height: 1160px;
   margin: 0 auto;
-  background: url(/image/case-bg.jpg) top no-repeat;
+  background: url(./image/case-bg.jpg) top no-repeat;
 }
 .part-case > .web-main {
   padding-top: 60px;
@@ -640,7 +640,7 @@ header nav > ul > li.active > a:active {
   width: 100%;
   height: 603px;
   margin: 0 auto;
-  background: url(/image/shoufei.jpg) top repeat-x;
+  background: url(./image/shoufei.jpg) top repeat-x;
 }
 .part-shoufei > .web-main {
   padding-top: 60px;
@@ -699,7 +699,7 @@ header nav > ul > li.active > a:active {
   line-height: 2;
   color: #666;
   padding-left: 35px;
-  background: url(/image/p-02.png) 0 6px no-repeat;
+  background: url(./image/p-02.png) 0 6px no-repeat;
 }
 
 .part-faq dl:nth-of-type(2),
@@ -745,7 +745,7 @@ header nav > ul > li.active > a:active {
   width: 25%;
   height: auto;
   overflow: hidden;
-  background: url(/image/p-03.png) right center no-repeat;
+  background: url(./image/p-03.png) right center no-repeat;
   font-size: 24px;
   color: #ff5963;
   text-align: -moz-center !important;
@@ -769,7 +769,7 @@ header nav > ul > li.active > a:active {
   height: 60px;
   overflow: hidden;
   margin: 10px auto;
-  background: url(/image/ico-03.png) no-repeat;
+  background: url(./image/ico-03.png) no-repeat;
 }
 .part-additional .content > li:nth-of-type(1) > .ico {
   background-position: 0 0;
@@ -839,7 +839,7 @@ footer .copy > img {
   width: 174px;
   height: 455px;
   overflow: hidden;
-  background: url(/image/p-05.png) no-repeat;
+  background: url(./image/p-05.png) no-repeat;
 }
 #floatqq > a {
   display: block;
@@ -915,7 +915,7 @@ footer .copy > img {
   width: 100px;
   height: 100px;
   overflow: hidden;
-  background: #000 url(/image/jmr-loading.gif) center center no-repeat;
+  background: #000 url(./image/jmr-loading.gif) center center no-repeat;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   border-radius: 7px;
@@ -1013,6 +1013,6 @@ footer .copy > img {
   width: 40px;
   height: 40px;
   overflow: hidden;
-  background: url(/image/p-06.png) no-repeat;
+  background: url(./image/p-06.png) no-repeat;
   cursor: pointer;
 }
